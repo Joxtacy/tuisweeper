@@ -1,0 +1,9 @@
+[package]
+name = "tuisweeper"
+version = "0.1.0"
+authors = ["Joxtacy <10127673+Joxtacy@users.noreply.github.com>"]
+license = "MIT"
+edition = "2021"
+
+[dependencies]
+ratatui = "0.27.0"
